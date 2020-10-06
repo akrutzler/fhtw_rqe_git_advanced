@@ -9,5 +9,7 @@ int main(int argc, char **argv)
         printf("First argument: %s\n", argv[1]);
     }
     
+    printf("Good bye!\n");
+    
     return 0;
 }
